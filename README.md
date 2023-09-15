@@ -37,9 +37,9 @@ Web Dev Tools And Libraries
   </li>
   <li>
     <h3>Images </h3>
-    <span>Pexes -  https://www.pexels.com/</span>
-    <span>Pixabay - https://pixabay.com/</span>
-    <span>Wallpaperflare - https://www.wallpaperflare.com/ </span>
+    <p>Pexes -  https://www.pexels.com/</p>
+    <p>Pixabay - https://pixabay.com/</p>
+    <p>Wallpaperflare - https://www.wallpaperflare.com/ </p>
   </li>
 </ul>
 
