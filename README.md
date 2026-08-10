@@ -1,4 +1,4 @@
-# 🚀 Ultimate Fullstack Developer Tools & Resources
+# 🚀 Ultimate Fullstack Developer Tools & Resources.
 
 A comprehensive collection of tools, libraries, and resources for modern fullstack development. From UI/UX design to deployment, everything you need to build exceptional web applications.
 
