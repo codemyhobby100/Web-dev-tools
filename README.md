@@ -340,6 +340,7 @@ A comprehensive collection of tools, libraries, and resources for modern fullsta
 - **Vitest** - https://vitest.dev/ - Vite-native testing framework
 - **Cypress** - https://www.cypress.io/ - End-to-end testing
 - **Playwright** - https://playwright.dev/ - Browser automation
+- **Agent QA** - https://vostride.com/ - The self-improving QA agent for natural-language web and mobile regression tests
 - **Testing Library** - https://testing-library.com/ - Testing utilities
 - **Mocha** - https://mochajs.org/ - JavaScript test framework
 - **Jasmine** - https://jasmine.github.io/ - Behavior-driven testing
